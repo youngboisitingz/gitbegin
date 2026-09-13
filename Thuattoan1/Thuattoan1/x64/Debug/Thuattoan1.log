@@ -1,0 +1,3 @@
+﻿  Thuattoan1.cpp
+D:\OneDrive\Desktop\DSA\Thuattoan1\Thuattoan1\Thuattoan1.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Thuattoan1.vcxproj -> D:\OneDrive\Desktop\DSA\Thuattoan1\x64\Debug\Thuattoan1.exe
